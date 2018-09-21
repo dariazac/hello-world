@@ -8,7 +8,7 @@ for i in range(1, 11):
 # 	print i
 # 	i += 1
 
-a = 10
+a = 30
 b = 20
 if a < b:
     print "{} is less than {}".format(a, b)

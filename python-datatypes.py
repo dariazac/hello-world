@@ -11,6 +11,8 @@ def sqr(a_list):
 
 #sqr(my_list)
 
+#sqr(my_list)
+
 # Tuples
 my_tup = (1, 2, 3, 4, 5, 6, 7, 8)
 # for i in my_tup:

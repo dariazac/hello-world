@@ -1,7 +1,7 @@
 # hello-world
 first repository
 
-Figuring this out. I like python.
+Figuring this out. I like python is TRUE.
 
 ## my future projects
 
